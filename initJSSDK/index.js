@@ -17,7 +17,8 @@
         jsApiList:jsApiList
     })
 }
-(function(window){
-    window.initJSSDK=initjssdk
-})(window)
+export default initjssdk
+// (function(window){
+//     window.initJSSDK=initjssdk
+// })(window)
 

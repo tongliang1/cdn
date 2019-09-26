@@ -42,6 +42,7 @@ function auth(appid,third) {
         return Promise.resolve()
     }
   }
-  (function(window){
-    window.AUTH=auth
-  })(window)
+  export default auth
+  // (function(window){
+  //   window.AUTH=auth
+  // })(window)
