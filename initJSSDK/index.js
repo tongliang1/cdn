@@ -18,7 +18,7 @@ console.log(Vue)
         jsApiList:jsApiList
     })
 }
-export default initjssdk
+// export default initjssdk
 // (function(window){
 //     window.initJSSDK=initjssdk
 // })(window)
