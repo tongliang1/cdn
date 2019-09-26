@@ -1,3 +1,4 @@
+console.log(Vue)
 //初始化jssdk
 /**
  * @param {true,false} debug 开关调试
