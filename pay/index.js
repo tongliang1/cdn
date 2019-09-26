@@ -50,7 +50,3 @@ function Pay(payReturnStr,third){
       zfbPay(payReturnStr)
     }
 }
-export default Pay
-// (function(window){
-//   window.h5Pay=Pay
-// })(window)

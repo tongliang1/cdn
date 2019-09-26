@@ -1,4 +1,3 @@
-console.log(Vue)
 //初始化jssdk
 /**
  * @param {true,false} debug 开关调试
@@ -18,8 +17,3 @@ console.log(Vue)
         jsApiList:jsApiList
     })
 }
-// export default initjssdk
-// (function(window){
-//     window.initJSSDK=initjssdk
-// })(window)
-
